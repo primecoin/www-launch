@@ -1,2 +1,4 @@
-# www-launch
-Primecoin Launch Website in 2013
+# Primecoin 2013 Launch Website
+
+Originally at http://www.primecoin.org/.
+
